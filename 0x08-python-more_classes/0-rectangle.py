@@ -1,7 +1,11 @@
 #!/usr/bin/python3
-"""Define a class Square."""
+"""
+This is a Rectangle class.
+"""
 
 
-class Square:
-    """Represent a square."""
+class Rectangle:
+    """
+    Create an empty Rectangle Object.
+    """
     pass
