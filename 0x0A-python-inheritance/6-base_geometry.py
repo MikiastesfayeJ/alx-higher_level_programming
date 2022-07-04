@@ -1,9 +1,17 @@
 #!/usr/bin/python3
-"""6-base_geometry.py"""
+"""
+    BaseGeometry class
+"""
 
 
-class BaseGeometry:
-    """BaseGeometry"""
+class BaseGeometry():
+    """
+        BaseGeometry Class
+    """
     def area(self):
-        """Not implemented exception"""
+        """
+            public instance
+            Raise:
+                Exception: Area is not implemented
+        """
         raise Exception("area() is not implemented")
